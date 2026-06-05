@@ -61,3 +61,12 @@ I build software across web, mobile, desktop, automation, and AI domains.
 
 - LinkedIn: https://linkedin.com/in/doctorhayato
 - Portfolio: https://my-portfolio-iota-kohl-37.vercel.app/
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=drhayato&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drhayato&layout=compact&theme=tokyonight&hide_border=true" />
+</p>

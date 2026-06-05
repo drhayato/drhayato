@@ -8,13 +8,8 @@ Software • Automation • AI
 
 I build software across web, mobile, desktop, automation, and AI domains.
 
-## Current Focus
 
-- AI Mental Health Assistant
-
-- Software Engineering
-
--  ## Techstack
+- 
 ## 🛠 Tech Stack
 
 <details>
@@ -60,6 +55,8 @@ I build software across web, mobile, desktop, automation, and AI domains.
 </p>
 
 </details>
+
+
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/doctorhayato

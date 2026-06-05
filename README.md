@@ -15,18 +15,49 @@ I build software across web, mobile, desktop, automation, and AI domains.
 - Software Engineering
 
 -  ## Techstack
-- ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+## 🛠 Tech Stack
 
-### Backend
-<img src="https://skillicons.dev/icons?i=python,nodejs,firebase" />
+### 💻 Programming Languages
 
-### Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,kotlin" />
+</p>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+### 🎨 Frontend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,firebase" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/doctorhayato

@@ -15,4 +15,4 @@ I build software across web, mobile, desktop, automation, and AI domains.
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/doctorhayato
-- Portfolio: your-portfolio-link
+- Portfolio: https://my-portfolio-iota-kohl-37.vercel.app/

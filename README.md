@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Shivansh 👋
 
-<!--
-**drhayato/drhayato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science Engineering Student at MRIIRS.
 
-Here are some ideas to get you started:
+Software • Automation • AI 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software across web, mobile, desktop, automation, and AI domains.
+
+## Current Focus
+
+- AI Mental Health Assistant
+
+- Software Engineering
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/doctorhayato
+- Portfolio: your-portfolio-link

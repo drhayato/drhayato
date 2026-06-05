@@ -14,6 +14,19 @@ I build software across web, mobile, desktop, automation, and AI domains.
 
 - Software Engineering
 
+-  ## Techstack
+- ### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=python,nodejs,firebase" />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/doctorhayato

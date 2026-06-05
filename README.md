@@ -17,47 +17,49 @@ I build software across web, mobile, desktop, automation, and AI domains.
 -  ## Techstack
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+<details>
+<summary><b>💻 Programming Languages</b></summary>
+
+<br>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,kotlin" />
 </p>
 
-### 🎨 Frontend Development
+</details>
+
+<details>
+<summary><b>🌐 Web Development</b></summary>
+
+<br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,flask,firebase" />
 </p>
 
-### ⚙️ Backend & APIs
+</details>
+
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+
+<br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </p>
 
-### 📱 Mobile Development
+</details>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin" />
-</p>
+<details>
+<summary><b>🧰 Tools</b></summary>
 
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-### 🧰 Tools & Platforms
+<br>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 </p>
+
+</details>
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/doctorhayato
